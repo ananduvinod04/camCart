@@ -4,7 +4,7 @@ export default function CurrentProduct() {
   return (
     <>
 <div className="currentProductContainer">
-<div className="product-card-wrapper">
+<div className="product-card-wrappers">
   <div className="w-[20rem] h-[18rem] bg-black text-white border border-black rounded-lg shadow-sm dark:bg-gray-800 dark:border-gray-700 flex flex-col">
 
   
