@@ -1,0 +1,20 @@
+.productImageContainer{
+width: 100%;
+height: 60%;
+
+}
+
+
+
+
+.productCardImage{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+}
+
+
+.product-card-wrapper:hover {
+  transform: scale(1.02);
+   box-shadow: 0 8px 50px rgb(51, 62, 160);
+}

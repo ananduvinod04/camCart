@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "flowbite/src/themes/default";
+
+.webContent {
+  width: 100vw;
+  min-height: 100vh;
+
+  background-image: url("https://c4.wallpaperflare.com/wallpaper/159/645/247/blur-the-camera-lens-camera-wallpaper-thumb.jpg");
+  background-color: rgb(58, 58, 58);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed; /* key part */
+}

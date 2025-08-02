@@ -1,0 +1,15 @@
+.main{
+    width: 100vw;
+    margin-top: 20px;
+    
+}
+
+
+.customProductListContainer{
+  
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap:60px;
+
+}

@@ -1,0 +1,7 @@
+.currentProductContainer{
+    margin-top: 60px;
+    padding-top: 20px;
+    width: 100wv;
+    display: flex;
+    justify-content: center;
+}
